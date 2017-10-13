@@ -1,6 +1,7 @@
-#自学python，自己的小练习#
+#自学python小练习#
 #Othello#
 #Two players edition#
+#Oct.2nd 2017#
 import os
 class othello(object):
     def __init__(self):
